@@ -23,24 +23,6 @@ Either disable subscribe or setup a mailchimp list and add the form action and h
 
 Now push to whatever repo you want!
 
-### Progress
-
-- [x] emotion / component styles
-- [x] home page
-- [x] tag page
-- [x] author page
-- [x] blog page
-  - [x] subscribe form - using [mailchimp](https://mailchimp.com)
-  - [ ] full width images in markdown? - not sure if possible
-  - [x] multiple post authors
-- [x] 404 page
-- [x] subscribe modal/overlay
-- [x] rss feed (on production build)
-- [ ] polish ✨
-  - [x] meta tags
-  - [x] page titles
-  - [ ] pagination
-
 ### Deploy to Netlify
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/scttcper/gatsby-casper)
@@ -87,4 +69,5 @@ Edit `gatsby-config.js` section `siteMetadata`
 
 In `gatsby-node.js`, edit the `postsPerPage` constant. The default value is
 six posts per page.
+# jackblog
 # jackblog
