@@ -1,5 +1,8 @@
 # Jack Jona's Blog
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/15dfa1dd-abf7-48d4-a70e-9be79c5cf746/deploy-status)](https://app.netlify.com/sites/jackjblog/deploys)
+
+
 Link to my blog: https://blog.jackjona.live
 
 This is a static blog generator and starter gatsby repo. A version of [Casper](https://github.com/TryGhost/Casper) v3 themefrom [Ghost](https://ghost.org/), built on the Gatsby Starter [Gatsby-Casper](https://github.com/scttcper/gatsby-casper), for [GatsbyJS](https://www.gatsbyjs.org/) using [TypeScript](https://www.typescriptlang.org/).
