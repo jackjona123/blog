@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How This Blog Was Made
-image: img/code.webp
+image: img/code.jpg
 author: [Jack Jona]
 date: 2020-11-21T10:00:00.000Z
 tags:

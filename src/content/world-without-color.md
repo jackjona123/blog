@@ -3,7 +3,7 @@ layout: post
 title: 'A World Without Color'
 author: [Jack Jona]
 tags: []
-image: img/color.webp
+image: img/color.jpg
 date: '2021-05-20T15:11:55.000Z'
 draft: false
 ---

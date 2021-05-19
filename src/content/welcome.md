@@ -3,7 +3,7 @@ layout: post
 title: 'Welcome to My Blog'
 author: [Jack Jona]
 tags: ['Welcome']
-image: img/welcome.webp
+image: img/welcome.jpg
 date: '2020-08-18T23:46:37.121Z'
 draft: false
 excerpt: Hey! Welcome, to my blog :)

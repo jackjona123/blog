@@ -3,7 +3,7 @@ layout: post
 title: 'Reasons For Life:'
 author: [Jack Jona]
 tags: []
-image: img/life.webp
+image: img/life.jpg
 date: '2021-03-02T23:46:37.121Z'
 draft: false
 ---
