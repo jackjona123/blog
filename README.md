@@ -69,6 +69,3 @@ Edit `gatsby-config.js` section `siteMetadata`
 
 In `gatsby-node.js`, edit the `postsPerPage` constant. The default value is
 six posts per page.
-# jackblog
-# jackblog
-# jackblog
