@@ -1,15 +1,15 @@
-# gatsby-casper
+# Jack Jona's Blog
 
-Demo: https://gatsby-casper.netlify.app
+Link to my blog: https://blog.jackjona.live
 
-This is a static blog generator and starter gatsby repo. A port of [Casper](https://github.com/TryGhost/Casper) v3 a theme from [Ghost](https://ghost.org/) for [GatsbyJS](https://www.gatsbyjs.org/) using [TypeScript](https://www.typescriptlang.org/).
+This is a static blog generator and starter gatsby repo. A version of [Casper](https://github.com/TryGhost/Casper) v3 themefrom [Ghost](https://ghost.org/), built on the Gatsby Starter [Gatsby-Casper](https://github.com/scttcper/gatsby-casper), for [GatsbyJS](https://www.gatsbyjs.org/) using [TypeScript](https://www.typescriptlang.org/).
 
 ## Getting Started
 
 Clone this repo.
 
 ```
-git clone https://github.com/scttcper/gatsby-casper.git --depth=1
+git clone https://github.com/jackjona123/jackblog.git --depth=1
 ```
 
 Remove .git folder and setup a new one
@@ -25,7 +25,7 @@ Now push to whatever repo you want!
 
 ### Deploy to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/scttcper/gatsby-casper)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jackjona123/jackblog)
 
 ## How to configure Google Analytics
 
@@ -69,5 +69,6 @@ Edit `gatsby-config.js` section `siteMetadata`
 
 In `gatsby-node.js`, edit the `postsPerPage` constant. The default value is
 six posts per page.
+# jackblog
 # jackblog
 # jackblog

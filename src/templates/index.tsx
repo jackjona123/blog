@@ -49,6 +49,7 @@ export interface IndexProps {
     };
   };
 }
+//Index of the website template  (similar to index.html)
 
 const IndexPage: React.FC<IndexProps> = props => {
   const { width, height } = props.data.header.childImageSharp.fixed;
@@ -68,6 +69,12 @@ const IndexPage: React.FC<IndexProps> = props => {
           property="og:image"
           content={`${config.siteUrl}${props.data.header.childImageSharp.fixed.src}`}
         />
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/>
+        <link rel="manifest" href="/site.webmanifest"/>
+        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#3474ff"/>
+        <meta name="theme-color" content="#ffffff"></meta>
         {config.facebook && <meta property="article:publisher" content={config.facebook} />}
         {config.googleSiteVerification && (
           <meta name="google-site-verification" content={config.googleSiteVerification} />
@@ -145,7 +152,7 @@ const IndexPage: React.FC<IndexProps> = props => {
 
 export const pageQuery = graphql`
   query blogPageQuery($skip: Int!, $limit: Int!) {
-    logo: file(relativePath: { eq: "img/ghost-logo.png" }) {
+    logo: file(relativePath: { eq: "img/logo.png" }) {
       childImageSharp {
         # Specify the image processing specifications right in the query.
         # Makes it trivial to update as your page's design changes.

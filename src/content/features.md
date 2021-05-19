@@ -1,9 +1,9 @@
 ---
 layout: post
 title: All The Features Of This Blog
-image: img/testimg-cover.jpg
-author: [Ghost]
-date: 2018-09-30T07:03:47.149Z
+image: img/gears.jpg
+author: [Jack Jona]
+date: 2021-01-30T07:03:47.149Z
 tags:
   - Blog Information
 ---
@@ -41,7 +41,7 @@ Some description text of the post.
 
 ### Example Of A Large Image
 
-![Test Image](img/testimg1.jpg)
+![Test Image](img/test.jpg)
 
 Here's where the caption, description or credit of the image should be.
 
@@ -49,7 +49,7 @@ Here's where the caption, description or credit of the image should be.
 
 Some description text of the post.
 
-![Small Test Image](img/testimg2.jpg)
+![Small Test Image](img/testsmall.jpg)
 
 Here's where the caption, description or credit of the image should be.
 
@@ -168,5 +168,5 @@ An example of music from Souncloud embedded.
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/193781466&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <br></br>
 <center>
-Well... That's all I got.
+Well... That's all I got :)
 </center>

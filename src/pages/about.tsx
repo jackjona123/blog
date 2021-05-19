@@ -50,15 +50,18 @@ const About: React.FC = () => (
       <main id="site-main" className="site-main" css={[SiteMain, outer]}>
         <div css={inner}>
           <article className="post page" css={[PostFull, NoImage]}>
+            <center>
             <PostFullHeader className="post-full-header">
               <PostFullTitle className="post-full-title">About</PostFullTitle>
             </PostFullHeader>
+            </center>
 
             <PostFullContent className="post-full-content">
               <div className="post-content">
                 <h5>
                   
                 </h5>
+                <center>
                 <p>
                   Hey! I'm Jack Jona :)
                 </p>
@@ -69,6 +72,7 @@ const About: React.FC = () => (
                  I love to learn new things and explore, and I always enjoy a good challenge. 
                  I have made and continue to make mistakes but I continue to learn from them and grow as a person.
                 </p>
+                </center>
                 <p>
                   <center>
                   <br></br>

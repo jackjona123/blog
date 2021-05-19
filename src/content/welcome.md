@@ -1,26 +1,22 @@
 ---
 layout: post
-title: 'Welcome to Ghost'
-author: [Ghost]
-tags: ['Getting Started']
-image: img/welcome-to-ghost.jpg
-date: '2018-05-06T23:46:37.121Z'
+title: 'Welcome to My Blog'
+author: [Jack Jona]
+tags: ['Welcome']
+image: img/welcome.jpg
+date: '2020-08-18T23:46:37.121Z'
 draft: false
-excerpt: Welcome, it's great to have you here. We know that first impressions are important, so we've populated your new site with some initial getting started posts that will help you get familiar with everything in no time.
+excerpt: Hey! Welcome, to my blog :)
 ---
+## Why I Made This Blog
+<p>
+This blog is kind of an impulse decision on my part. When COVID-19 hit, I was stuck in home and had a lot of time on my hands. I wanted to try something new and sense I had some time a blog was the best choice.
+</p>
 
-**A few things you should know upfront**:
+*To Be Honest*: I really don't know what I'm going to write about, but I'll hope you will join my along my journey.
 
-1. Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That's who it works best for.
-2. The entire platform can be modified and customised to suit your needs. It's very powerful, but does require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog.
-3. For the best experience we recommend downloading the Ghost Desktop App for your computer, which is the best way to access your Ghost site on a desktop device.
+## Thank You
 
-Ghost is made by an independent non-profit organisation called the Ghost Foundation. We are 100% self funded by revenue from our Ghost(Pro) service, and every penny we make is re-invested into funding further development of free, open source technology for modern publishing.
+Thank you, yes you, for taking the time out of your day to come and look at my blog. 
 
-The version of Ghost you are looking at right now would not have been made possible without generous contributions from the open source community.
-
-## Next up, the editor
-
-The main thing you'll want to read about next is probably: the Ghost editor. This is where the good stuff happens.
-
-> By the way, once you're done reading, you can simply delete the default **Ghost** user from your team to remove all of these introductory posts!
+<br></br>

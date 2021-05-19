@@ -1,9 +1,9 @@
 ---
 layout: post
 title: How This Blog Was Made
-image: img/callum-shaw-555357-unsplash.jpg
-author: [Ghost]
-date: 2019-03-10T10:00:00.000Z
+image: img/code.jpg
+author: [Jack Jona]
+date: 2020-11-21T10:00:00.000Z
 tags:
   - Blog Information
 excerpt: Information On How This Blog Was Made.
