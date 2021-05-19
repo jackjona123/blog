@@ -2,7 +2,7 @@
 title: 'Characteristics of being human '
 author: [Jack Jona]
 tags: []
-image: img/human.jpg
+image: img/human.webp
 date: '2021-04-19T10:00:00.000Z'
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: 'My Favourite Quote'
 author: [Jack Jona]
 tags: []
-image: img/cloud.jpg
+image: img/cloud.webp
 date: '2021-02-12T10:00:00.000Z'
 draft: false
 ---

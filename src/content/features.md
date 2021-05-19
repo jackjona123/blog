@@ -1,7 +1,7 @@
 ---
 layout: post
 title: All The Features Of This Blog
-image: img/gears.jpg
+image: img/gears.webp
 author: [Jack Jona]
 date: 2021-01-30T07:03:47.149Z
 tags:
