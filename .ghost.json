@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://ghost.jackjona.ninja",
+    "contentApiKey": "6857ce442c4f6bf64828adf2e0"
+  },
+  "production": {
+    "apiUrl": "https://ghost.jackjona.ninja",
+    "contentApiKey": "6857ce442c4f6bf64828adf2e0"
+  }
+}
