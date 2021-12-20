@@ -849,7 +849,7 @@ h6 {
 .post-card-avatar .author-profile-image {
     display: block;
     width: 100%;
-    background: var(--color-secondary);
+    background: #d3d3d3;
     border-radius: 100%;
     object-fit: cover;
 }

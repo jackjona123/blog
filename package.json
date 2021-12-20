@@ -1,10 +1,10 @@
 {
-  "name": "gatsby-starter-ghost",
-  "description": "A starter template to build lightning fast websites with Ghost and Gatsby",
-  "version": "2.0.0",
+  "name": "gatsby-blog",
+  "description": "Jack Jona's Blog",
+  "version": "1.0.0",
   "license": "MIT",
-  "author": "Ghost Foundation",
-  "homepage": "https://docs.ghost.org/api/gatsby/",
+  "author": "Jack Jona",
+  "homepage": "https://blog.jackjona.me",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tryghost/gatsby-starter-ghost.git"

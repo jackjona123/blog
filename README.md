@@ -1,8 +1,8 @@
-# Gatsby Starter Ghost
+# Blog - v2
 
-A starter template to build lightning fast websites with [Ghost](https://ghost.org) & [Gatsby](https://gatsbyjs.org)
+The Github Repository For My Personal Blog. Built With Gatsby and Ghost CMS.
 
-**Demo:** https://gatsby.ghost.org
+# This Is A Built From The [Gatsby Starter Ghost](https://github.com/TryGhost/gatsby-starter-ghost)
 
 &nbsp;
 

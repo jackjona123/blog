@@ -24,7 +24,7 @@ const PostCard = ({ post }) => {
                 <div className="post-card-footer-left">
                     <div className="post-card-avatar">
                         {post.primary_author.profile_image ?
-                            <img className="author-profile-image" src={post.primary_author.profile_image} alt={post.primary_author.name}/> :
+                            <img className="author-profile-image" src="/images/icons/avatar.svg" alt={post.primary_author.name}/> :
                             <img className="default-avatar" src="/images/icons/avatar.svg" alt={post.primary_author.name}/>
                         }
                     </div>
